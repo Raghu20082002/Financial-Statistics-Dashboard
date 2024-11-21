@@ -20,6 +20,11 @@ Getting Started
 	1.	Download the Excel file from the repository.
 	2.	Open the file in Microsoft Excel.
 	3.	Explore the interactive features to view insights on income sources, marketing performance, and financial targets.
+ ## Excel Dashboard Preview 📊
+
+Explore the key features of my dynamic financial dashboard:
+![image alt ](https://github.com/Raghu20082002/Financial-Statistics-Dashboard/blob/3551e8b91f1f191a0cd9cf564bbe8b09d49863c0/visual1.png)
+
 Built with: Microsoft Excel
 
 Contributors: Raghvendra Singh Chauhan
